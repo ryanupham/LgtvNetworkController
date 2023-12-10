@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestProj": {
+      "commandName": "Project",
+      "commandLineArgs": "SetBacklight 50"
+    }
+  }
+}
